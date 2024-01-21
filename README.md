@@ -29,10 +29,6 @@ cat p1-fork/README.md
 <!DOCTYPE html>
 <html>
 <head><title></title></head>
-<body></body>
+<body><p>Hola {carlossanchezcabezudo}</p></body>
 </html>
-cd /workspaces/ci-cd
-git status
-git add .
-git commit -m "feat: homepage"
-git push origin main
+
