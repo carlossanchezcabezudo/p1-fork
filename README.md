@@ -22,17 +22,4 @@ git checkout main
 ## ¿Cómo escribir un README.md con formato?
 
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-cd /workspaces
-git clone https://github.com/{carlossanchezcabezudo}/p1-fork
-ls p1-fork
-cat p1-fork/README.md
-<!DOCTYPE html>
-<html>
-<head><title></title></head>
-<body></body>
-</html>
-cd /workspaces/ci-cd
-git status
-git add .
-git commit -m "feat: homepage"
-git push origin main
+
