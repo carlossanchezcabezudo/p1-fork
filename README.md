@@ -8,7 +8,7 @@ Se debe crear el repositorio y codespace desde nuestro perfil. A continuación s
 ![Creación del repositorio](https://github.com/carlossanchezcabezudo/p1-fork/blob/main/fotos/repositorio.PNG)
 A su vez, se adjunta una imagen del apartado del repositorio desde donde se puede crear el codespace que ha sido utilizado durante la práctica.
 #### Codespace:
-![Creación del repositorio](https://github.com/carlossanchezcabezudo/p1-fork/blob/main/fotos/codespace.PNG)
+![Creación del repositorio](fotos/codespace.png)
 Una vez hecho todo esto, se hace un fork del repositorio con el fin de crear una copia de dicho repositorio (que es ajeno) en nuestra propia cuenta de GitHub. Es una técnica muy utilizada pues aporta seguridad, la capacidad de experimentar sin que los cambios afecten directamente al repositorio original y facilita la colaboración. Se crea desde el botón "Fork" de la esquina superior de la pantalla como se muestra en la siguiente imagen:
 #### Creación fork:
 ![Creación del repositorio](https://github.com/carlossanchezcabezudo/p1-fork/blob/main/fotos/forkrealizado.PNG)
