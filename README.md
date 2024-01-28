@@ -28,6 +28,8 @@ ________________________________________________________________________________
 
 ## Descargas del entorno de desarrollo
 En lo que se refiere a la instalación de los softwares pertinentes, he creado de nuevo un archivo [entorno.pdf](https://github.com/carlossanchezcabezudo/p1-fork/blob/main/entorno.pdf) donde se puede verificar la correcta descarga y funcionamiento de los softwares pedidos.
+_______________________________________________________________________________________________________________________________________________
+
 Carlos Sánchez-Cabezudo Pinto
 
 
